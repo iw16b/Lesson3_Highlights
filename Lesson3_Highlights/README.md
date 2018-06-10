@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(June 8, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Isaiah Walker-Shelby)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment included moving files into local repository using Cloud9 and Github. It also informed me about version control, ssh keys, remote and local repository.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned SSH are used to login remotely from various different systems, and uses strong encryption code to carry out remote commands, and manage network infrastructure. Personal SSH key pairs may be generated and downloaded to service different SSH servers. )
+2. (Data can be backed, and pushed to a repository for access of other users. A repository may also be configured on a local machine for a user to access multiple software packages.)
+3. ( I learned how to access a repository, and how to commit and pull, update changes and send to repository. )
 
